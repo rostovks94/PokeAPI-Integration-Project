@@ -6,7 +6,7 @@ Welcome to PokeAdventure, an interactive web application that allows you to expl
 
 - **Home Page**: Introduction to the application with a brief overview and a welcoming message.
 - **Search Page**: Search for any Pokémon by name to get detailed information including stats, abilities, and type.
-- **Pokémon Battle**: Add Pokémon to your team and prepare for battles.
+- **Pokémon Battle**: Simulation Pokémon battles.
 
 ## Technologies Used
 

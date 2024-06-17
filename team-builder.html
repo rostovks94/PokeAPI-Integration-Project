@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Battle</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">PokeAdventure</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="search.html">Search</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Pokémon Battle <span class="sr-only">(current)</span></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="team-builder-container mt-5 text-center">
+        <h1>Pokémon Battle</h1>
+        <form id="teamForm" class="d-flex flex-column align-items-center mt-4">
+            <input type="text" class="form-control mb-3" id="teamPokemonName" placeholder="Enter Pokémon name" style="max-width: 300px;">
+            <button type="submit" class="btn btn-primary mb-2" style="max-width: 300px;">Add to Team</button>
+        </form>
+        <h2>Your Team</h2>
+        <div id="teamList" class="row justify-content-center mt-4"></div>
+        <button id="startBattle" class="btn btn-success mt-3">Start Battle!</button>
+    </div>
+
+    <div class="lightning" id="lightning"></div>
+
+    <audio id="thunderSound" src="sounds/lightning.mp3"></audio>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="js/team-builder.js"></script>
+</body>
+</html>

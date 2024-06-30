@@ -24,7 +24,7 @@ Welcome to PokeAdventure, an interactive web application that allows you to expl
 
 The main objectives of the PokeAdventure project are as follows:
 
-- **Create an Interactive User Experience:**
+**Create an Interactive User Experience:**
 -  Develop an engaging web application that allows users to explore and interact with detailed information about various Pokémon.
 -  Ensure a user-friendly interface that makes navigation and interaction intuitive and enjoyable.
   

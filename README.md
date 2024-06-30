@@ -26,7 +26,7 @@ The main objectives of the PokeAdventure project are as follows:
 
 **Create an Interactive User Experience:**
 -Develop an engaging web application that allows users to explore and interact with detailed information about various Pokémon.
-- Ensure a user-friendly interface that makes navigation and interaction intuitive and enjoyable.
+-Ensure a user-friendly interface that makes navigation and interaction intuitive and enjoyable.
   
 **Leverage PokeAPI for Dynamic Content:**
 -Utilize the PokeAPI to fetch and display real-time data about Pokémon, including their abilities, stats, types, and evolutionary paths.

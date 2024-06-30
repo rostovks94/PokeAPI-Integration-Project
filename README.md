@@ -18,19 +18,19 @@ Welcome to PokeAdventure, an interactive web application that allows you to expl
 - **JavaScript**: Adding interactivity to the web pages.
 - **Bootstrap**: Responsive design and components.
 - **PokeAPI**: Fetching data about Pokémon.
-- 
+  
 
 ## Project Goals
 
 The main objectives of the PokeAdventure project are as follows:
 
-**Create an Interactive User Experience:**
+-**Create an Interactive User Experience:**
   -Develop an engaging web application that allows users to explore and interact with detailed information about various Pokémon.
   -Ensure a user-friendly interface that makes navigation and interaction intuitive and enjoyable.
   
 **Leverage PokeAPI for Dynamic Content:**
--Utilize the PokeAPI to fetch and display real-time data about Pokémon, including their abilities, stats, types, and evolutionary paths.
--Provide users with up-to-date and accurate information through API integration.
+  -Utilize the PokeAPI to fetch and display real-time data about Pokémon, including their abilities, stats, types, and evolutionary paths.
+  -Provide users with up-to-date and accurate information through API integration.
 
 **Implement Responsive Design:**
 -Design the application to be fully responsive, ensuring a seamless experience across different devices and screen sizes using Bootstrap.

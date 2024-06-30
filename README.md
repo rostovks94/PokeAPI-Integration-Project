@@ -27,18 +27,23 @@ The main objectives of the PokeAdventure project are as follows:
 **Create an Interactive User Experience:**
 -Develop an engaging web application that allows users to explore and interact with detailed information about various Pokémon.
 - Ensure a user-friendly interface that makes navigation and interaction intuitive and enjoyable.
+  
 **Leverage PokeAPI for Dynamic Content:**
 -Utilize the PokeAPI to fetch and display real-time data about Pokémon, including their abilities, stats, types, and evolutionary paths.
 -Provide users with up-to-date and accurate information through API integration.
+
 **Implement Responsive Design:**
 -Design the application to be fully responsive, ensuring a seamless experience across different devices and screen sizes using Bootstrap.
 -Make sure the layout and functionality adapt gracefully to desktops, tablets, and mobile devices.
+
 **Enhance Web Development Skills:**
 -Improve proficiency in HTML, CSS, and JavaScript by implementing various features and functionalities in the project.
 -Gain hands-on experience with API integration and handling asynchronous data fetching.
+
 **Showcase Project in Portfolio:**
 -Create a polished and professional project that can be featured in a personal portfolio to demonstrate web development skills to potential employers.
 -Ensure the project is well-documented, with clear descriptions, goals, and a structured codebase.
+
 **Enable Team Building and Simulation:**
 -Develop a feature that allows users to build their own Pokémon team and simulate battles to analyze performance and compatibility.
 -Provide a visual representation of the selected Pokémon team to enhance user engagement.

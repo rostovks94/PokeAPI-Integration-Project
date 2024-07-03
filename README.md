@@ -82,7 +82,7 @@ Then, navigate to http://localhost:8000 in your web browser.
 
 You can use the project online without cloning it. Simply go to the following link:
 
-https://your-username.github.io/PokeAdventure/
+https://rostovks94.github.io/PokeAPI-Integration-Project/
  
 
 ## Project Structure
